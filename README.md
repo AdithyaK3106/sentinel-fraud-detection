@@ -8,6 +8,14 @@ A hackathon-built intelligent fraud detection and investigation platform featuri
 
 SENTINEL processes live transaction streams, applies hybrid rule-based and ML-guided risk scoring, automatically links related transactions into investigation cases, builds interactive fraud chain graphs, and enables investigators to take rapid actions — freeze accounts, flag phone numbers, alert law enforcement.
 
+### Screenshots
+
+#### Case Management Dashboard
+![Case Management Dashboard](Screenshot%202026-04-29%20090227.png)
+
+#### Interactive Fraud Chain Visualization
+![Interactive Fraud Chain Visualization](Screenshot%202026-04-29%20095843.png)
+
 ### Key Capabilities
 
 - **Real-time Transaction Processing** — Ingest and score transactions within milliseconds
